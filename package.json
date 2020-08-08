@@ -1,6 +1,6 @@
 {
-    "title": "New Age",
-    "name": "startbootstrap-new-age",
+    "title": "OH Heavens",
+    "name": "ohheavenspage",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
@@ -14,19 +14,9 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/themes/new-age",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-new-age/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-new-age.git"
+        "url": "https://github.com/olawalejarvis/ohheavenspage.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.13.1",
