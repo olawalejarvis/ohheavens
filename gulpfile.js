@@ -31,7 +31,7 @@ function browserSync(done) {
     server: {
       baseDir: "./"
     },
-    port: 3000
+    port: parseInt(process.env.PORT, 10)
   });
   done();
 }
