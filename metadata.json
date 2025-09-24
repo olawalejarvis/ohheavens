@@ -1,0 +1,15 @@
+[
+  {
+    "type": "openheavendevotional",
+    "name": "Open Heaven 2020",
+    "tableName": "openheavendevotional1",
+    "version": "14",
+    "displayName": "2020",
+    "description": "A daily devotional app providing spiritual insights and inspiration.",
+    "year": "2020",
+    "dataUrl": "https://storage.googleapis.com/oheaven-42951.appspot.com/devotionals/openheavens2020.json",
+    "updateNotes": "Major update with new features and improvements.",
+    "dateCreated": "2024-06-15T10:00:00Z",
+    "lastUpdated": "2024-06-20T12:00:00Z"
+  }
+]
